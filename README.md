@@ -31,7 +31,7 @@ Make sure you have the following installed:
 1. Clone the repository:
 
    
-   git clone https://github.com/yourusername/react-notes-app.git
+   git clone https://github.com/yourusername/TaskMate.git
 
 1. Navigate to the project directory:
 
@@ -56,17 +56,17 @@ npm run dev
 
 
 ### Usage
-####• To create a new note, fill in the title and content in the input fields and click the "Add" button.
-####• To edit a note, click the "Edit" button next to the note you want to modify. Make your changes and click "Update".
-####• To delete a note, click the "Delete" button next to the note.
+- To create a new note, fill in the title and content in the input fields and click the "Add" button.
+- To edit a note, click the "Edit" button next to the note you want to modify. Make your changes and click "Update".
+- To delete a note, click the "Delete" button next to the note.
 
 
 ### Code Structure
-####◇ App.jsx: The main component that manages the state of the application, including notes and edit functionality.
-####◇ Header.jsx: A component that renders the header of the application.
-####◇ Footer.jsx: A component that renders the footer of the application.
-####◇ Note.jsx: A component that represents an individual note.
-####◇ CreateArea.jsx: A component that contains the input fields for creating and updating notes.
+- App.jsx: The main component that manages the state of the application, including notes and edit functionality.
+- Header.jsx: A component that renders the header of the application.
+- Footer.jsx: A component that renders the footer of the application.
+- Note.jsx: A component that represents an individual note.
+- CreateArea.jsx: A component that contains the input fields for creating and updating notes.
 
 
 ### Contributing
@@ -76,7 +76,7 @@ Contributions are welcome! If you have suggestions for improvements or new featu
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments
-◇ Inspired by various React tutorials and documentation.
+Inspired by various React tutorials and documentation.
 
 
 ### Instructions for Customization:
