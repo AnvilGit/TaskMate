@@ -54,7 +54,10 @@ npm run dev
 
 4. Open your browser and go to http://localhost:5173 to view the application.
 
+### Live Application URL
+The Application is deployed in https://react-taskmate24.netlify.app/
 
+Click on the link to see the application
 ### Usage
 - To create a new note, fill in the title and content in the input fields and click the "Add" button.
 - To edit a note, click the "Edit" button next to the note you want to modify. Make your changes and click "Update".
@@ -68,18 +71,11 @@ npm run dev
 - Note.jsx: A component that represents an individual note.
 - CreateArea.jsx: A component that contains the input fields for creating and updating notes.
 
-
 ### Contributing
 Contributions are welcome! If you have suggestions for improvements or new features, feel free to open an issue or submit a pull request.
 
-### License
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ### Acknowledgments
 Inspired by various React tutorials and documentation.
 
 
-### Instructions for Customization:
-- Replace `yourusername` in the clone URL with your actual GitHub username.
-- You can add more sections or modify existing ones based on your preferences or additional features you may implement in the future.
-- If you have a license file, make sure to include it in the repository and link it in the README.
