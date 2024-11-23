@@ -33,26 +33,26 @@ Make sure you have the following installed:
    
    git clone https://github.com/yourusername/TaskMate.git
 
-1. Navigate to the project directory:
+2. Navigate to the project directory:
 
 cd TaskMate
 
 
 
-2. Install the dependencies:
+3. Install the dependencies:
 
 npm install
 
 
 
-3. Start the development server:
+4. Start the development server:
 
 
 npm run dev
 
 
 
-4. Open your browser and go to http://localhost:5173 to view the application.
+5. Open your browser and go to http://localhost:5173 to view the application.
 
 ### Live Application URL
 The Application is deployed in https://react-taskmate24.netlify.app/
